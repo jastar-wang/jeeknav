@@ -4,7 +4,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no">
-    <title>Jastar Geek导航</title>
+    <title>Jeek导航-做自己想要的导航！</title>
     <link rel="shortcut icon" href="favcion.ico" />
     <link rel="stylesheet" href="css/iconfont.css">
     <link rel="stylesheet" href="css/style.css">
@@ -15,7 +15,7 @@
         <aside class="left-bar" id="leftBar">
             <div class="title" style="padding-top: 10px;">
                 <img src="https://gitee.com/uploads/49/1608249_jastar-wang.png?1509435998" style="width: 46px;height: 46px;">
-                <span style="vertical-align: top;font-family: -webkit-pictograph;font-size: 23px;">Jastar Geek导航</span>
+                <span style="vertical-align: top;font-family: fantasy;font-size: 23px;">Jeek导航</span>
             </div>
             <nav class="nav">
                 <div class="item active"><a href=""><i class="iconfont icon-daohang2"></i>极客导航</a><i class="line"></i></div>
@@ -38,7 +38,6 @@
                     <li><a href="#design"><i class="iconfont icon-designer"></i>设计资源</a></li>
                     <li><a href="#study"><i class="iconfont icon-xuexi1"></i>学无止境</a></li>
                     <li><a href="#operation"><i class="iconfont icon-yunying"></i>网络运营</a></li>
-                    <li class="download"><a href="https://github.com/geekape/geek-navigation"><i class="iconfont icon-github"></i>源码下载</a></li>
                 </ul>
                 <div class="item"><a href=""><i class="iconfont icon-daohang2"></i>极客导航3</a><i class="line"></i></div>
                 <ul class="nav-item" id="navItem">
@@ -49,13 +48,23 @@
                     <li><a href="#design"><i class="iconfont icon-designer"></i>设计资源</a></li>
                     <li><a href="#study"><i class="iconfont icon-xuexi1"></i>学无止境</a></li>
                     <li><a href="#operation"><i class="iconfont icon-yunying"></i>网络运营</a></li>
-                    <li class="download"><a href="https://github.com/geekape/geek-navigation"><i class="iconfont icon-github"></i>源码下载</a></li>
                 </ul>
                 
-                <div class="item comment"><a target="_blank" href="javascript:;"><i class="iconfont icon-liuyan"></i>关于</a></div>
+                <div class="item comment">
+                    <a class="jeek-about" href="javascript:;">
+                        <i class="iconfont icon-zixun"></i>About
+                    </a>
+                    <a href="#jeek-top">
+                        <i class="iconfont icon-daohang1"></i>Top
+                    </a>
+                    <a href="#jeek-footer">
+                        <i class="iconfont icon-daohang2"></i>Footer
+                    </a>
+                </div>
             </nav>
         </aside>
         <section class="main">
+            <a href="#" name="jeek-top"></a>
             <div class="header-search">
                 <div class="search-module">
                     <ul>
@@ -389,7 +398,7 @@
                     </div>
                 </div>
 
-								<!-- 学无止境 -->
+				<!-- 学无止境 -->
                 <div class="box">
                     <a href="#" name="study"></a>
                     <div class="sub-category">
@@ -470,23 +479,35 @@
                 <footer class="footer">
                     <div class="copyright">
                         <div style="text-align: center;">
-                            Copyright © 2018
-                            <a href="http://www.jastar-wang.com" target="_blank">Jastar · Wang</a>.
-                            &nbsp;&nbsp;本站基于
-                            <a href="http://www.zcbboke.com" target="_blank">极客猿梦导航</a>
-                            修改升级，由全球最大同性交友社区
-                            <a href="https://github.com/jastar-wang/geeknav" target="_blank">Github</a>托管运营.
-                            &nbsp;&nbsp;v1.0.0 Beta
+                            Copyright &copy; &nbsp;2018
+                            &nbsp;&nbsp;<a href="https://jeeknav.jastar-wang.com" target="_blank">Jeek导航</a> ，
+                            <a href="http://www.jastar-wang.com" target="_blank">Jastar · Wang</a> 版权所有.
+                            &nbsp;&nbsp;本站由全球最大同性交友社区
+                            <a href="https://github.com/jastar-wang/jeeknav" target="_blank">Github</a>托管运营.
+                            &nbsp;&nbsp;v1.0.2 Beta
                         </div>
                     </div>
                 </footer>
+                <!-- 辅助内容区 -->
+                <a href="#" name="jeek-footer"></a>
+                <div id="jeek-about" style="display:none;">
+                    <h3>关于本站</h3>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;本站基于<a href="http://www.zcbboke.com" target="_blank">猿梦导航</a>修改升级
+                        ，目的是为了方便本人更清晰的查找日积月累的网站列表^_^。
+                        <br>&nbsp;&nbsp;&nbsp;&nbsp;
+                        由于本人是个Java猿，所以网站的大部分内容还是更偏向于Java类型……
+                    </p>
+                    <h3>帮助支持</h3>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;如有推荐网站请使用 <a href="https://github.com/jastar-wang/jeeknav/issues" target="_blank">Isuse</a> 给我留言即可。</p>
+                    <p>&nbsp;&nbsp;&nbsp;&nbsp;本站源码开放，但遵循 <a href="https://www.gnu.org/licenses/" target="_blank">LGPL v3.0</a> 协议，请童鞋们知悉。</p>
+                </div>
         </section>
 
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
         <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/layer/2.3/layer.js"></script>
         <script type="text/javascript" src="js/search.js"></script>
         <script>
-        /* 手机导航 */
+        /* Mobile nav */
         var oMenu = document.getElementById('menu');
         var oBtn = oMenu.getElementsByTagName('a')[0];
         var oLeftBar = document.getElementById('leftBar');
@@ -504,21 +525,30 @@
                 }
             }
         }
-        /* 导航样式 */
+        /* Navigation style */
         $(".nav-item a").click(function(){
             $(".nav-item a").removeClass("active");
             $(this).addClass("active");
             $(".nav .item").removeClass("active");
             $(this).parents("ul").prev().addClass("active");
         });
-
-        /* 搜索样式 */
+        /* Search style */
         $(".search-li").click(function(){
             $(".search-li").removeClass("active");
             $(this).addClass("active");
             $("#searchForm").attr("action",$(this).attr("url"));
             $("#searchText").attr("name",$(this).attr("name"));
             $("#searchBtn").text($(this).text());
+        });
+        /* About */
+        $(".jeek-about").click(function(){
+            layer.open({
+                title: 'About',
+                skin:'layui-layer-lan',
+                shadeClose :true,
+                closeBtn:0,
+                content: $("#jeek-about").html()
+            });
         });
         </script>
 </body>

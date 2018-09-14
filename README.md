@@ -9,4 +9,4 @@
 - Email：jastar_wang@163.com
 
 # LICENSE
-The geeknav is released under version 3.0 of the GNU Lesser General Public License.
+The Jeeknav is released under version 3.0 of the GNU Lesser General Public License.
