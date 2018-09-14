@@ -210,9 +210,14 @@ body,
   width: 200px;
   background: #30333c;
 }
+.nav .comment a{
+  font-size: 14px;
+  margin-left: 6px;
+}
 .main #mainContent {
   /* max-width: 1200px; */
   max-width: 100%;
+  padding-bottom: 45px;
 }
 .main .box {
   overflow: hidden;
@@ -279,9 +284,11 @@ body,
   line-height: 45px;
   background: #fff;
   box-shadow: 0 0 1rem rgba(0, 0, 0, 0.2);
+  /* create by jastar */
+  position: fixed;
 }
 .footer .copyright {
-  margin-left: 30px;
+  /* margin-left: 30px; */
   color: #949494;
   font-size: 12px;
 }
