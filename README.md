@@ -3,7 +3,7 @@
 - 建立本站是的初衷是因为本人之前积累了大量的收藏网址，但苦于无法清晰直观的查看，所以有此idea。
 - 本人为java猿，所以本站的内容还是偏向于java方向
 - 状态：已上线
-- 访问：http://jeeknav.jastar-wang.com/
+- 访问：https://jeeknav.jastar-wang.com/
 
 # Author
 - Name：Jastar·Wang
