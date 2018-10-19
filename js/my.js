@@ -44,3 +44,29 @@ $(".jeek-about").click(function () {
         content: $("#jeek-about").html()
     });
 });
+
+/* 加载json网址列表 */
+$.getJSON("urls.json", "", function (data) {
+    $.each(data, function (i, cate) {
+        //设置标题
+        $(".box a[name=" + cate.id + "]").next(".sub-category").find("div").append(cate.title);
+
+        //生成网址列表
+        $.each(cate.links, function (i, item) {
+            var str = "<a target='_blank' href='" + item.href + "'>";
+            str += "<div class='item'>";
+            str += "    <div class='" + item.class + "'>";
+            if (item.imgSrc != null && item.imgSrc != "") {
+                str += "<img src='" + item.imgSrc + "'> ";
+            }
+            str += item.name;
+            str += "    </div>";
+            if (item.desc != null && item.desc != "") {
+                str += "<div class='desc'>" + item.desc + "</div>";
+            }
+            str += "</div>";
+            str += "</a>";
+            $(".box a[name=" + cate.id + "]").next(".sub-category").next().append(str);
+        });
+    })
+});
