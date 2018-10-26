@@ -350,6 +350,12 @@
                 "href": "http://msdn.itellyou.cn/",
                 "class": "no-logo",
                 "desc": "最实用的工具资源下载平台"
+            },
+            {
+                "name": "ShowMore",
+                "href": "https://showmore.com/zh/",
+                "class": "no-logo",
+                "desc": "集免费在线录屏和云视频存储于一体的平台"
             }
         ]
     },
