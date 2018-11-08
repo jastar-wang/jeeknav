@@ -597,6 +597,11 @@
                 "name": "聚合数据",
                 "href": "https://www.juhe.cn/",
                 "class": "no-logo"
+            },
+            {
+                "name": "虹软AI开放平台",
+                "href": "http://ai.arcsoft.com.cn/index.html",
+                "class": "no-logo"
             }
         ]
     },
