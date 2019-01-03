@@ -727,5 +727,17 @@
                 "class": "no-logo"
             }
         ]
+    },
+    {
+        "id": "openproject",
+        "title": "开源项目",
+        "links": [
+            {
+                "name": "Hutool",
+                "href": "https://www.hutool.cn/",
+                "class": "no-logo",
+                "desc": "一个丰富的Java工具包类库"
+            }
+        ]
     }
 ]
