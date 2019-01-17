@@ -743,6 +743,12 @@
                 "href": "https://www.hutool.cn/",
                 "class": "no-logo",
                 "desc": "一个丰富的Java工具包类库"
+            },
+            {
+                "name": "MyBatis Plus",
+                "href": "https://mybatis.plus/",
+                "class": "no-logo",
+                "desc": "对MyBatis进行封装，无侵入、高效率、易开发的一款开源框架"
             }
         ]
     }
