@@ -384,6 +384,12 @@
                 "href": "https://www.draw.io/",
                 "class": "no-logo",
                 "desc": "完全开源免费的在线UML工具，不能存云端，但可关联OneDrive等云存储"
+            },
+            {
+                "name": "凡科快图",
+                "href": "https://kt.fkw.com/?_ta=2877",
+                "class": "no-logo",
+                "desc": "会打字就能免费在线设计图的牛批工具"
             }
         ]
     },
