@@ -308,6 +308,12 @@
                 "desc": "可以整理知识学习笔记、发布日记杂文等的在线编辑器"
             },
             {
+                "name": "Markdown公众号编辑器",
+                "href": "https://www.mdnice.com/",
+                "class": "no-logo",
+                "desc": "实用Markdown编辑文章，复制粘贴到公众号后台发布"
+            },
+            {
                 "name": "百度短网址",
                 "href": "http://dwz.cn/",
                 "class": "no-logo",
