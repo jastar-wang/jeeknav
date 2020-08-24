@@ -87,11 +87,11 @@
                 "desc": "全球最大的开源及私有项目代码托管Git平台"
             },
             {
-                "name": "腾讯云开发者平台",
-                "href": "https://dev.tencent.com/",
+                "name": "Coding",
+                "href": "https://coding.net/",
                 "class": "logo",
                 "imgSrc": "img/site/coding.ico",
-                "desc": "高效的研发流程与Git平台（原CODING与腾讯达成合作）"
+                "desc": "一站式软件研发管理平台"
             },
             {
                 "name": "Gitee",
