@@ -1,7 +1,7 @@
 # Project
 ![build](https://img.shields.io/badge/build-passing-green.svg)
 ![platform](https://img.shields.io/badge/platform-html-brightgreen.svg)
-![release](https://img.shields.io/badge/release-v1.6.1-red.svg)
+![release](https://img.shields.io/badge/release-v1.7.0-red.svg)
 ![license](https://img.shields.io/badge/license-LGPL%203.0-blue.svg)
 
 - 本站基于[猿梦导航](https://github.com/geekape/)修改升级。
