@@ -87,18 +87,18 @@
                 "desc": "全球最大的开源及私有项目代码托管Git平台"
             },
             {
-                "name": "Coding",
-                "href": "https://coding.net/",
-                "class": "logo",
-                "imgSrc": "img/site/coding.ico",
-                "desc": "一站式软件研发管理平台"
-            },
-            {
                 "name": "Gitee",
                 "href": "https://gitee.com/",
                 "class": "logo",
                 "imgSrc": "img/site/gitee.ico",
                 "desc": "专为开发者提供稳定、高效、安全的云端软件开发协作Git平台"
+            },
+            {
+                "name": "Coding",
+                "href": "https://coding.net/",
+                "class": "logo",
+                "imgSrc": "img/site/coding.ico",
+                "desc": "一站式软件研发管理平台"
             }
         ]
     },
@@ -114,14 +114,7 @@
                 "desc": "腾讯Web前端团队，代表作品WebQQ，致力于前端技术的研究"
             },
             {
-                "name": "ISUX",
-                "href": "https://isux.tencent.com/",
-                "class": "logo",
-                "imgSrc": "img/site/isux.jpg",
-                "desc": "腾讯社交用户体验设计，简称ISUX，腾讯设计团队网站"
-            },
-            {
-                "name": "FEX",
+                "name": "百度前端团队（FEX）",
                 "href": "http://fex.baidu.com/",
                 "class": "logo",
                 "imgSrc": "img/site/fex.ico",
@@ -129,7 +122,7 @@
             },
             {
                 "name": "淘宝前端团队（FED）",
-                "href": "http://taobaofed.org/",
+                "href": "https://fed.taobao.org/",
                 "class": "logo",
                 "imgSrc": "img/site/fed.ico",
                 "desc": "用技术为体验提供无限可能"
