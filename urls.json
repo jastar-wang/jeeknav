@@ -203,6 +203,11 @@
                 "name": "周立的博客",
                 "href": "http://itmuch.com/",
                 "class": "no-logo"
+            },
+            {
+                "name": "习惯沉淀",
+                "href": "https://www.cnblogs.com/yadongliang/",
+                "class": "no-logo"
             }
         ]
     },
