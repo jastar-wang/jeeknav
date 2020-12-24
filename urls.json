@@ -388,6 +388,12 @@
                 "href": "https://kt.fkw.com/?_ta=2877",
                 "class": "no-logo",
                 "desc": "会打字就能免费在线设计图的牛批工具"
+            },
+            {
+                "name": "Free API",
+                "href": "https://www.free-api.com/",
+                "class": "no-logo",
+                "desc": "收集免费的接口服务，做一个api的搬运工"
             }
         ]
     },
