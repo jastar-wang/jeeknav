@@ -136,7 +136,7 @@
             },
             {
                 "name": "奇舞团",
-                "href": "https://75team.com/",
+                "href": "https://75.team/",
                 "class": "logo",
                 "imgSrc": "img/site/75team.ico",
                 "desc": "奇虎360旗下前端开发团队出品"
@@ -165,11 +165,6 @@
                 "class": "no-logo"
             },
             {
-                "name": "WEB骇客",
-                "href": "http://www.webhek.com/",
-                "class": "no-logo"
-            },
-            {
                 "name": "程序喵",
                 "href": "http://www.ibloger.net/",
                 "class": "no-logo"
@@ -180,7 +175,7 @@
                 "class": "no-logo"
             },
             {
-                "name": "关小西",
+                "name": "温柔一刀（关小西）",
                 "href": "http://www.cnblogs.com/moonlightL/",
                 "class": "no-logo"
             },
@@ -200,11 +195,6 @@
                 "class": "no-logo"
             },
             {
-                "name": "周立的博客",
-                "href": "http://itmuch.com/",
-                "class": "no-logo"
-            },
-            {
                 "name": "习惯沉淀",
                 "href": "https://www.cnblogs.com/yadongliang/",
                 "class": "no-logo"
@@ -216,64 +206,166 @@
         "title": "在线工具",
         "links": [
             {
-                "name": "MD5加解密",
-                "href": "http://www.cmd5.com/",
+                "name": "在线工具（荐）",
+                "href": "http://tool.lu/",
                 "class": "no-logo",
-                "desc": "在线破解或者加密MD5"
+                "desc": "一站式在线工具大全"
             },
             {
                 "name": "联图网",
                 "href": "http://www.liantu.com",
                 "class": "no-logo",
-                "desc": "在线生成二维码"
+                "desc": "【二维码】在线生成二维码"
             },
             {
                 "name": "草料二维码",
                 "href": "http://cli.im/",
                 "class": "no-logo",
-                "desc": "在线生成二维码，部分定制需求收费"
+                "desc": "【二维码】在线生成二维码"
             },
             {
-                "name": "在线工具（推荐）",
-                "href": "http://tool.lu/",
-                "class": "no-logo",
-                "desc": "里面有非常多开发需要用到的工具"
-            },
-            {
-                "name": "在线生成ASCII(1)",
-                "href": "http://www.network-science.de/ascii/",
-                "class": "no-logo",
-                "desc": "类似于Spring Boot启动的Logo"
-            },
-            {
-                "name": "在线生成ASCII(2)",
-                "href": "http://patorjk.com/software/taag/",
-                "class": "no-logo",
-                "desc": "在线生成ASCII码的字符画"
-            },
-            {
-                "name": "在线PS",
+                "name": "稿定",
                 "href": "http://www.uupoop.com/",
                 "class": "no-logo",
-                "desc": "在线使用PS处理图片"
+                "desc": "【图片】在线使用PS处理图片"
+            },
+            {
+                "name": "美图秀秀网页版",
+                "href": "http://xiuxiu.web.meitu.com/main.html",
+                "class": "no-logo",
+                "desc": "【图片】在线处理图片"
+            },
+            {
+                "name": "凡科快图",
+                "href": "https://kt.fkw.com/?_ta=2877",
+                "class": "no-logo",
+                "desc": "￥【图片】会打字就能免费在线设计图的牛批工具"
             },
             {
                 "name": "图帮主",
                 "href": "http://www.tubangzhu.com",
                 "class": "no-logo",
-                "desc": "在线设计名片（部分收费）"
+                "desc": "￥【图片】在线设计图片、名片等"
+            },
+            {
+                "name": "动态图像生成器",
+                "href": "https://dummyimage.com/",
+                "class": "no-logo",
+                "desc": "【图片】通过url传递参数来动态生成图片"
+            },
+            {
+                "name": "压缩图",
+                "href": "https://www.yasuotu.com/",
+                "class": "no-logo",
+                "desc": "【图片】在线压缩、证件照、剪裁、格式转化、修改分辨率等处理"
             },
             {
                 "name": "艺术字体在线生成",
                 "href": "http://www.qt86.com/",
                 "class": "no-logo",
-                "desc": "免费的在线生成艺术字体的网站"
+                "desc": "【字体】免费的在线生成艺术字体的网站"
             },
             {
                 "name": "求字体",
                 "href": "http://www.qiuziti.com/",
                 "class": "no-logo",
-                "desc": "一个可以在线识别图片中字体的网站"
+                "desc": "【字体】一个可以在线识别图片中字体的网站"
+            },
+            {
+                "name": "百度短网址",
+                "href": "http://dwz.cn/",
+                "class": "no-logo",
+                "desc": "【短网址】百度提供的可以在线压缩网址（或恢复）的工具"
+            },
+            {
+                "name": "缩我端网址",
+                "href": "http://suo.im/",
+                "class": "no-logo",
+                "desc": "【短网址】在线压缩长网址为短网址"
+            },
+            {
+                "name": "FT12短网址",
+                "href": "http://www.ft12.com/",
+                "class": "no-logo",
+                "desc": "【短网址】在线压缩长网址为短网址（有API）"
+            },
+            {
+                "name": "U钙网",
+                "href": "http://www.uugai.com/",
+                "class": "no-logo",
+                "desc": "【LOGO】在线制作Logo"
+            },
+            {
+                "name": "标志在线网",
+                "href": "http://www.logomaker.com.cn/logo-maker.jsp",
+                "class": "no-logo",
+                "desc": "【LOGO】在线制作Logo"
+            },
+            {
+                "name": "Processon",
+                "href": "https://processon.com/",
+                "class": "no-logo",
+                "desc": "【UML】在线UML工具，可以协作及云端存储"
+            },
+            {
+                "name": "Draw.io",
+                "href": "https://www.draw.io/",
+                "class": "no-logo",
+                "desc": "【UML】完全开源免费的在线UML工具，不能存云端，但可关联OneDrive等云存储"
+            },
+            {
+                "name": "Markdown在线编辑器",
+                "href": "https://www.zybuluo.com/mdeditor",
+                "class": "no-logo",
+                "desc": "【写作】可以整理知识学习笔记、发布日记杂文等的在线编辑器"
+            },
+            {
+                "name": "墨滴",
+                "href": "https://editor.mdnice.com/",
+                "class": "no-logo",
+                "desc": "【写作】实用的公众号推文Markdown编辑器"
+            },
+            {
+                "name": "Carbon",
+                "href": "https://carbon.now.sh/",
+                "class": "no-logo",
+                "desc": "【写作】开源项目，在线把代码转成piu亮的图片"
+            },
+            {
+                "name": "近义词查询",
+                "href": "https://carbon.now.sh/",
+                "class": "no-logo",
+                "desc": "【写作】查询近邻词汇，登录后还可指定成语诗词（from歪脑）"
+            },
+            {
+                "name": "谐音工具-文案狗",
+                "href": "http://www.wenangou.com/xieyin.html",
+                "class": "no-logo",
+                "desc": "【写作】快速谐音梗联想，支持联想成语、诗句、俗语（from歪脑）"
+            },
+            {
+                "name": "今日热榜",
+                "href": "https://tophub.today/",
+                "class": "no-logo",
+                "desc": "【写作】牛批啊，一站式追到全网热榜"
+            },
+            {
+                "name": "在线生成ASCII①",
+                "href": "http://www.network-science.de/ascii/",
+                "class": "no-logo",
+                "desc": "如SpringBoot启动LOGO"
+            },
+            {
+                "name": "在线生成ASCII②",
+                "href": "http://patorjk.com/software/taag/",
+                "class": "no-logo",
+                "desc": "在线生成ASCII码的字符画"
+            },
+            {
+                "name": "MD5加解密",
+                "href": "http://www.cmd5.com/",
+                "class": "no-logo",
+                "desc": "在线加密或解密MD5串"
             },
             {
                 "name": "Bootstrap可视化布局",
@@ -282,82 +374,10 @@
                 "desc": "在线拖拽生成bootstrap代码"
             },
             {
-                "name": "网页配色工具",
-                "href": "http://www.peise.net/tools/web/",
-                "class": "no-logo",
-                "desc": "在线网页配色工具"
-            },
-            {
-                "name": "动态图像生成器",
-                "href": "https://dummyimage.com/",
-                "class": "no-logo",
-                "desc": "一个可以通过url传递参数而动态生成图片的网站"
-            },
-            {
-                "name": "美图秀秀网页版",
-                "href": "http://xiuxiu.web.meitu.com/main.html",
-                "class": "no-logo",
-                "desc": "在线使用美图秀秀处理图片"
-            },
-            {
-                "name": "Markdown在线编辑器",
-                "href": "https://www.zybuluo.com/mdeditor",
-                "class": "no-logo",
-                "desc": "可以整理知识学习笔记、发布日记杂文等的在线编辑器"
-            },
-            {
-                "name": "Markdown公众号编辑器",
-                "href": "https://www.mdnice.com/",
-                "class": "no-logo",
-                "desc": "实用Markdown编辑文章，复制粘贴到公众号后台发布"
-            },
-            {
-                "name": "百度短网址",
-                "href": "http://dwz.cn/",
-                "class": "no-logo",
-                "desc": "百度提供的一款可以在线压缩长网址（或恢复）的工具"
-            },
-            {
-                "name": "网址缩短",
-                "href": "http://suo.im/",
-                "class": "no-logo",
-                "desc": "在线压缩长网址为短网址（有api）"
-            },
-            {
-                "name": "FT12短网址",
-                "href": "http://www.ft12.com/",
-                "class": "no-logo",
-                "desc": "在线压缩长网址为短网址（有api）"
-            },
-            {
-                "name": "U钙网",
-                "href": "http://www.uugai.com/",
-                "class": "no-logo",
-                "desc": "在线制作Logo"
-            },
-            {
-                "name": "标志在线网",
-                "href": "http://www.logomaker.com.cn/logo-maker.jsp",
-                "class": "no-logo",
-                "desc": "在线制作Logo"
-            },
-            {
-                "name": "压缩图",
-                "href": "https://www.yasuotu.com/",
-                "class": "no-logo",
-                "desc": "在线压缩图片，包括GIF等常用图片格式，还有一些其他功能"
-            },
-            {
                 "name": "快代理",
-                "href": "http://www.kuaidaili.com/",
+                "href": "https://www.kuaidaili.com/free/",
                 "class": "no-logo",
-                "desc": "在线提供免费的代理服务器地址及端口"
-            },
-            {
-                "name": "奇云测",
-                "href": "http://ce.cloud.360.cn/",
-                "class": "no-logo",
-                "desc": "在线全国范围内测试站点速度、评分等"
+                "desc": "在线提供代理服务器地址及端口"
             },
             {
                 "name": "MSDN，我告诉你",
@@ -366,34 +386,16 @@
                 "desc": "最实用的工具资源下载平台"
             },
             {
-                "name": "ShowMore",
-                "href": "https://showmore.com/zh/",
-                "class": "no-logo",
-                "desc": "集免费在线录屏和云视频存储于一体的平台"
-            },
-            {
-                "name": "Processon",
-                "href": "https://processon.com/",
-                "class": "no-logo",
-                "desc": "在线UML工具，可以协作及云端存储，免费版有功能和数量限制"
-            },
-            {
-                "name": "Draw.io",
-                "href": "https://www.draw.io/",
-                "class": "no-logo",
-                "desc": "完全开源免费的在线UML工具，不能存云端，但可关联OneDrive等云存储"
-            },
-            {
-                "name": "凡科快图",
-                "href": "https://kt.fkw.com/?_ta=2877",
-                "class": "no-logo",
-                "desc": "会打字就能免费在线设计图的牛批工具"
-            },
-            {
                 "name": "Free API",
                 "href": "https://www.free-api.com/",
                 "class": "no-logo",
                 "desc": "收集免费的接口服务，做一个api的搬运工"
+            },
+            {
+                "name": "KinhDown",
+                "href": "https://kinhdown.kinh.cc",
+                "class": "no-logo",
+                "desc": "新一代PanDownload"
             }
         ]
     },
@@ -402,28 +404,28 @@
         "title": "静态仓库",
         "links": [
             {
-                "name": "Maven在线仓库",
+                "name": "Maven仓库",
                 "href": "http://mvnrepository.com/",
                 "class": "no-logo",
-                "desc": "官网仓库：<a href=\"http://central.maven.org/maven2/org/\">点这里</a>"
+                "desc": "官网仓库：<a target=\"_blank\" href=\"https://search.maven.org/\">点我直达</a>"
             },
             {
-                "name": "阿里Maven镜像库",
+                "name": "Maven仓库（阿里）",
                 "href": "http://maven.aliyun.com/mvn/search",
                 "class": "no-logo",
                 "desc": "阿里云提供的maven镜像仓库，速度比官方的快"
             },
             {
-                "name": "七牛CDN前端库",
+                "name": "Staticfile CDN",
                 "href": "http://staticfile.org/",
                 "class": "no-logo",
-                "desc": "七牛免费CDN前端公开库（Staticfile CDN）"
+                "desc": "七牛+掘金提供的免费CDN前端公开库"
             },
             {
                 "name": "又拍云Javascript库",
                 "href": "http://jscdn.upai.com",
                 "class": "no-logo",
-                "desc": "又拍云常用JavaScript库CDN服务"
+                "desc": "又拍云常用JavaScript库CDN服务（只提供部分热门组件）"
             },
             {
                 "name": "新浪SAE的CDN",
@@ -438,10 +440,16 @@
                 "desc": "国外开源cdn静态资源库"
             },
             {
-                "name": "前端CDN公共库",
-                "href": "https://www.cdnjs.net/",
+                "name": "前端库CDN服务",
+                "href": "https://qydev.weixin.qq.com/cdn/cdnjs.html",
                 "class": "no-logo",
-                "desc": "前端公共库CDN加速，每日同步cdnjs.com"
+                "desc": "常用前端公共库免费CDN加速"
+            },
+            {
+                "name": "BootCDN",
+                "href": "https://www.bootcdn.cn/",
+                "class": "no-logo",
+                "desc": "稳定、快速、免费的前端开源项目 CDN 加速服务"
             }
         ]
     },
@@ -460,18 +468,6 @@
                 "href": "http://tpl.amazeui.org/",
                 "class": "no-logo",
                 "desc": "里面有很多优质的网站模板，使用的是Amaze UI框架"
-            },
-            {
-                "name": "Resume模板",
-                "href": "https://www.canva.com/templates/resumes/",
-                "class": "no-logo",
-                "desc": "国外海量Github搭建resume模板任你用"
-            },
-            {
-                "name": "Jekyll Themes",
-                "href": "http://jekyllthemes.org/",
-                "class": "no-logo",
-                "desc": "使jekyll搭建Git博客的模板"
             },
             {
                 "name": "织梦58模板",
@@ -510,22 +506,10 @@
                 "desc": "贤心大神倾情出品的前端框架"
             },
             {
-                "name": "5iweb网页特效库",
-                "href": "http://www.5iweb.com.cn/",
-                "class": "no-logo",
-                "desc": "一个提供免费下载的前端特效网站"
-            },
-            {
                 "name": "jQuery插件库",
                 "href": "http://www.jq22.com/",
                 "class": "no-logo",
                 "desc": "一个拥有大量特效插件的网站"
-            },
-            {
-                "name": "GoEasy.io（收费）",
-                "href": "https://goeasy.io/www/home",
-                "class": "no-logo",
-                "desc": "一个实时的web应用框架，针对java做了SDK，包含了websocket和polling"
             }
         ]
     },
@@ -534,13 +518,6 @@
         "title": "设计资源",
         "links": [
             {
-                "name": "UIGREAT",
-                "href": "http://www.uigreat.com/",
-                "imgSrc": "img/site/uigreat.jpg",
-                "class": "logo",
-                "desc": "优秀设计师的贴心伴侣。"
-            },
-            {
                 "name": "花瓣",
                 "href": "http://huaban.com/",
                 "imgSrc": "img/site/huaban.ico",
@@ -548,32 +525,18 @@
                 "desc": "花瓣，陪你做生活的设计师。"
             },
             {
-                "name": "Dribbble",
-                "href": "https://dribbble.com/",
-                "imgSrc": "img/site/dribbble.ico",
-                "class": "logo",
-                "desc": "设计作品的交流平台"
-            },
-            {
-                "name": "Behance",
-                "href": "https://www.behance.net/",
-                "imgSrc": "img/site/behance.png",
-                "class": "logo",
-                "desc": "系列设计作品开放平台"
-            },
-            {
-                "name": "Pinterest",
-                "href": "https://www.pinterest.com/",
-                "imgSrc": "img/site/pinterest.ico",
-                "class": "logo",
-                "desc": "图片分享类的社交网站"
-            },
-            {
                 "name": "站酷",
                 "href": "http://www.zcool.com.cn/",
                 "imgSrc": "img/site/zcool.jpg",
                 "class": "logo",
                 "desc": "打开站酷，发现更好的设计"
+            },
+            {
+                "name": "Canva可画",
+                "href": "https://www.canva.cn/?display-com-option=true",
+                "imgSrc": "img/site/canva.ico",
+                "class": "logo",
+                "desc": "从Logo、社交媒体配图、文件到打印品等，都可创作"
             }
         ]
     },
@@ -602,11 +565,6 @@
                 "class": "no-logo"
             },
             {
-                "name": "阿里开放平台",
-                "href": "http://open.uc.cn/",
-                "class": "no-logo"
-            },
-            {
                 "name": "腾讯开放平台",
                 "href": "https://open.tencent.com/",
                 "class": "no-logo"
@@ -627,8 +585,13 @@
                 "class": "no-logo"
             },
             {
-                "name": "聚合数据",
-                "href": "https://www.juhe.cn/",
+                "name": "聚合数据API大全",
+                "href": "https://www.juhe.cn/docs",
+                "class": "no-logo"
+            },
+            {
+                "name": "诏预SaintIC开放平台",
+                "href": "https://open.saintic.com/",
                 "class": "no-logo"
             },
             {
@@ -642,13 +605,6 @@
         "id": "docs",
         "title": "手册文档",
         "links": [
-            {
-                "name": "jQuery",
-                "href": "http://jquery.cuishifeng.cn/index.html",
-                "imgSrc": "img/site/jquery.ico",
-                "class": "logo",
-                "desc": "优秀的JavaScript代码库"
-            },
             {
                 "name": "Bootstrap",
                 "href": "http://v3.bootcss.com/",
@@ -744,11 +700,6 @@
                 "class": "no-logo"
             },
             {
-                "name": "实验楼（部分收费）",
-                "href": "https://www.shiyanlou.com/",
-                "class": "no-logo"
-            },
-            {
                 "name": "Git在线学习",
                 "href": "https://learngitbranching.js.org/",
                 "class": "no-logo"
@@ -767,9 +718,15 @@
             },
             {
                 "name": "MyBatis Plus",
-                "href": "https://mybatis.plus/",
+                "href": "https://baomidou.com/",
                 "class": "no-logo",
                 "desc": "对MyBatis进行封装，无侵入、高效率、易开发的一款开源框架"
+            },
+            {
+                "name": "Beetl",
+                "href": "http://ibeetl.com/",
+                "class": "no-logo",
+                "desc": "闲·大赋出品的新一代高性能web页面引擎框架"
             }
         ]
     }
