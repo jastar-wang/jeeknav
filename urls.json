@@ -413,43 +413,55 @@
                 "name": "Maven仓库（阿里）",
                 "href": "http://maven.aliyun.com/mvn/search",
                 "class": "no-logo",
-                "desc": "阿里云提供的maven镜像仓库，速度比官方的快"
+                "desc": "阿里云提供的镜像仓库，速度快"
             },
             {
-                "name": "Staticfile CDN",
-                "href": "http://staticfile.org/",
+                "name": "360前端静态资源库（荐）",
+                "href": "https://cdn.baomitu.com/",
                 "class": "no-logo",
-                "desc": "七牛+掘金提供的免费CDN前端公开库"
+                "desc": "丰富、稳定、快速"
             },
             {
-                "name": "又拍云Javascript库",
-                "href": "http://jscdn.upai.com",
+                "name": "字节跳动静态资源库（荐）",
+                "href": "http://cdn.bytedance.com/",
                 "class": "no-logo",
-                "desc": "又拍云常用JavaScript库CDN服务（只提供部分热门组件）"
+                "desc": "丰富、稳定、快速"
             },
             {
-                "name": "新浪SAE的CDN",
-                "href": "http://lib.sinaapp.com",
-                "class": "no-logo",
-                "desc": "页面很丑，但速度很快"
-            },
-            {
-                "name": "CDNJS",
+                "name": "CDNJS（荐）",
                 "href": "https://cdnjs.com/",
                 "class": "no-logo",
-                "desc": "国外开源cdn静态资源库"
-            },
-            {
-                "name": "前端库CDN服务",
-                "href": "https://qydev.weixin.qq.com/cdn/cdnjs.html",
-                "class": "no-logo",
-                "desc": "常用前端公共库免费CDN加速"
+                "desc": "国外开源的cdn静态资源库"
             },
             {
                 "name": "BootCDN",
                 "href": "https://www.bootcdn.cn/",
                 "class": "no-logo",
-                "desc": "稳定、快速、免费的前端开源项目 CDN 加速服务"
+                "desc": "足够丰富，但是最近发现很慢"
+            },
+            {
+                "name": "Staticfile CDN",
+                "href": "https://staticfile.org/",
+                "class": "no-logo",
+                "desc": "首页巨慢，维护社区不活跃"
+            },
+            {
+                "name": "又拍云Javascript库",
+                "href": "http://jscdn.upai.com",
+                "class": "no-logo",
+                "desc": "仅提供5个热门库"
+            },
+            {
+                "name": "前端库CDN服务",
+                "href": "https://qydev.weixin.qq.com/cdn/cdnjs.html",
+                "class": "no-logo",
+                "desc": "仅提供8个热门库"
+            },
+            {
+                "name": "新浪SAE的CDN",
+                "href": "http://lib.sinaapp.com",
+                "class": "no-logo",
+                "desc": "仅提供少数热门库，但速度很快"
             }
         ]
     },
