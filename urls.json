@@ -512,12 +512,6 @@
                 "desc": "强大的开源免费的移动端插件网站"
             },
             {
-                "name": "Layui（网友镜像）",
-                "href": "https://layui.lubingzy.cn/doc/index.htm",
-                "class": "no-logo",
-                "desc": "贤心大神倾情出品，可惜官网已下线"
-            },
-            {
                 "name": "jQuery插件库",
                 "href": "http://www.jq22.com/",
                 "class": "no-logo",
@@ -658,6 +652,13 @@
                 "imgSrc": "img/site/linuxidc.ico",
                 "class": "logo",
                 "desc": "User：ftp1.linuxidc.com<br>Pwd：www.linuxidc.com"
+            },
+            {
+                "name": "Layui官方Pages",
+                "href": "https://layui.gitee.io/v2",
+                "imgSrc": "img/site/layui.ico",
+                "class": "logo",
+                "desc": "贤心大神荣誉出品"
             }
         ]
     },
